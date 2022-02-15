@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beinnor
 - 👀 I’m interested in work
-- 🌱 I’m currently learning javascript, and some .net 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript, and some .net
 - 📫 https://beinnor.netlify.app/
 
 <!---
